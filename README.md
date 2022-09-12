@@ -1,5 +1,5 @@
 # Course Challenge
 
 ```
-Project from the Ignite NodeJS course at rocketseat.a
+Project from the Ignite NodeJS course at rocketseat.
 ```
